@@ -1,6 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+<<<<<<< HEAD
 body {
   padding-top: 80px;
   background: #e1e1e1;
@@ -46,4 +47,10 @@ body {
 // Form styling
 .page-heading, div > label {
   color: #64103F;
+=======
+body{
+	padding-top: 80px;
+	background: #e1e1e1;
+	color: 64103f;
+>>>>>>> article-validation
 }
